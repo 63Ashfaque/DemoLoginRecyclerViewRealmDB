@@ -1,8 +1,6 @@
 plugins {
     id("com.android.application")
-   // id("kotlin-android")
-  //  id ("kotlin-kapt") // add this line
-   id ("realm-android") // add this line
+    id ("realm-android")
     id("com.google.gms.google-services")
 }
 
